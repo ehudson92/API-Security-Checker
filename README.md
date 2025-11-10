@@ -46,9 +46,9 @@ Below are real test results from the API Security Checker:
 
 | Example | Description | Screenshot |
 |----------|--------------|-------------|
-| 1 | Checking GitHub API Headers | ![GitHub API Test](images/test1.png) |
-| 2 | Checking JSONPlaceholder API Headers | ![JSONPlaceholder Test](images/test2.png) |
-| 3 | Checking Reqres API Headers | ![Reqres Test](images/test3.png) |
+| 1 | Checking GitHub API Headers | ![GitHub API Test](images/Test1.png) |
+| 2 | Checking JSONPlaceholder API Headers | ![JSONPlaceholder Test](images/Test2.png) |
+| 3 | Checking Reqres API Headers | ![Reqres Test](images/Test3.png) |
 
 📧 Contact: <edward.cybersec@proton.me>
 
