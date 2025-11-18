@@ -5,7 +5,7 @@ A Python-based utility that checks a given API endpoint for essential security h
 ## :bust_in_silhouette: Author
 
 **Edward Hudson Jr.**  
-Cybersecurity & IT Professional passionate about API and web application security.
+Aspiring Cybersecurity Professional | Building Experience Through Hands-On Projects and Labs.
 
 ---
 
